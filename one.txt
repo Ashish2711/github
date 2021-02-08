@@ -1,8 +1,5 @@
 Line one has been added.
 
-<<<<<<< HEAD
 Line 2.
 
 this is to check the staging
-=======
->>>>>>> parent of 2c64146... My Second Commit
