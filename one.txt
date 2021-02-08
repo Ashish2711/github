@@ -1,2 +1,3 @@
 Line one has been added.
 
+Line 2.
